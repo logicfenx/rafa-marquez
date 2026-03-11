@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/rafa-marquez",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a rafa-marquez",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/rafa-marquez.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://x-port.net/rafa-marquez/"
+    },
+    "homepage": "https://x-port.net/rafa-marquez/"
+}
